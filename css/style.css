@@ -1,0 +1,121 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Maven Pro', sans-serif;
+}
+h1{
+  font-size: 4.33rem;
+  color: #DF5E5E;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+
+}
+
+h2{
+  font-size: 2rem;
+  color: #DF5E5E;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #B97A95;
+}
+
+hr{
+  margin: 70px auto 70px auto;
+  display: block;
+  border-style: dotted none none none;
+  border-width: .5rem;
+  width: 15%;
+  color: #FC5185;
+}
+
+p{
+  line-height: 2;
+}
+
+a{
+  color: #9C2542;
+  padding-left: 40px;
+  font-family: 'Maven Pro', sans-serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #CADEFC;
+}
+
+.top{
+  background-color: #FFE3E3;
+  padding-top:  100px;
+  position: relative;
+}
+.middle{
+}
+.bottom-container{
+  background-color: #B97A95;
+  margin-top: 4.5rem;
+  padding: 30px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 20%;
+}
+.top-cloud{
+  position: absolute;
+  right: 20%;
+  top: 50px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left
+}
+
+.web-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.camera-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile-pic{
+  margin-top: 50px;
+  border-radius: 14rem;
+  width: 16rem;
+  height: 14rem;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+
+}
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  background: #f2a266;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #e87b33;
+  text-decoration: none;
+}
+
+.copy-right{
+  color: #FDFDFD;
+  font-size: 0.70rem;
+  padding: 20px 0;
+}
