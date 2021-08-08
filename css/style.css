@@ -13,7 +13,7 @@ h1{
 }
 
 h2{
-  font-size: 2rem;
+  font-size: 32px;
   color: #DF5E5E;
   font-weight: normal;
   padding-bottom: 10px;
@@ -21,6 +21,7 @@ h2{
 
 h3{
   color: #B97A95;
+  font-size: 28px;
 }
 
 hr{
